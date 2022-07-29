@@ -1,0 +1,9 @@
+name: CanIVote
+main: me.hybridplague.canivote.CanIVote
+version: 1.0
+depend: [PlaceholderAPI]
+api-version: 1.13
+
+commands:
+  canivote:
+  bcseen:

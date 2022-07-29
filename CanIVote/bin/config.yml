@@ -1,0 +1,11 @@
+joindate-format: "MMM dd, yyyy"
+
+message:
+- "&cYou must has an active playtime of at least &l8 Hours &cin the last &l30 Days"
+- "    &f• &aYour current PlayTime in last 30 Days is: &f%playtime%"
+- ""
+- "&cYou must have joined the server at least &l2 Weeks ago"
+- "    &f• &aYour current JoinDate is: &f%joindate%"
+- ""
+- "&cYour forums account must be linked with your Minecraft account"
+#runs /link automatically after this
